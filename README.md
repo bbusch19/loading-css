@@ -1,2 +1,2 @@
 # loading-css
-A Loading Gif with CSS
+A Loading Gif with Pure CSS
